@@ -1,4 +1,4 @@
-# This is an old un-maintained repo - documentation is not updated, and all code migrated to DustcollectionEEProm repo
+# This is an old un-maintained repo - documentation is not updated, and all code migrated to [DustcollectionEEProm](https://github.com/cwiegert/DustCollectionEEPROM) repo
 
  DustCollection
 Arduino Automated dust collection system
